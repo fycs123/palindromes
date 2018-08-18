@@ -49,4 +49,5 @@ int main()
         if (strcmp(line, backwards) == 0)
             printf("%s is a palindrone\n", word);
     }
+    printf("***");
 }
